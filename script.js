@@ -1,6 +1,6 @@
 //Setup and start animation
 var typed = new Typed('#element', {
-      strings: ['<i>Student</i>,', '&amp; a Web developer.'],
+      strings: ['Student,', 'Web developer,', 'Designer,', 'Freelancer.'],
       typeSpeed: 100,
       loop: true,
       delay: 1000,
